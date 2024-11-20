@@ -1,0 +1,62 @@
+/* MY OWN VERSION OF THE DIGITAL BUSINESS CARD */
+/* .card {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 450px;
+  /* margin: 3px;
+  border: 10px;
+  border-color: blue; */
+/* box-shadow: 0 4px 8px 0 rgba(7, 7, 7, 0.842);
+  transition: 0.3s; */
+/* } */
+
+/* .logo-img {
+  display: block;
+  width: 200px;
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-right: 3px;
+  margin-bottom: 20px;
+}
+.p-wrapper {
+  margin-top: 20px;
+  padding: 2px 16px;
+}
+.p-wrapper #name {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
+.p-wrapper #state {
+  font-size: 15px;
+  font-family: sans-serif;
+} */
+/* MY OWN VERSION OF THE DIGITAL BUSINESS CARD */
+
+body {
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+  padding: 20px;
+  width: 400px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  color: #2b2839;
+  background: #b76935;
+  border-bottom: 6px solid #b1a7a6;
+  border-radius: 20px;
+}
+
+.avatar {
+  width: 150px;
+}
+
+.border-blue {
+  border: 1px dotted blue;
+}
